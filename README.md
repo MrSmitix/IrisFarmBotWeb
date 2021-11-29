@@ -1,5 +1,5 @@
 # IrisFarmBotWeb
-Продолжение [IrisFarmBotWeb (deprecated)](https://github.com/MrSmitix/IrisFarmBotWeb), автоматического бота для фарма ирис-койнов
+Продолжение [IrisFarmBot (deprecated)](https://github.com/MrSmitix/IrisFarmBot), автоматического бота для фарма ирис-койнов
 
 ## Очень интересно но ничего не понятно, и вообще я тут первый раз, что делать?
 
